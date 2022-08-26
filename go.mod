@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/pkg/errors v0.9.1
-	github.com/pytimer/k8sutil v0.0.0-20220203142443-87b1dfb13ebc
+	github.com/bryant-rh/k8sutil v0.0.0-20220203142443-87b1dfb13ebc
 	github.com/stretchr/testify v1.7.0
 	k8s.io/api v0.22.4
 	k8s.io/apimachinery v0.22.4

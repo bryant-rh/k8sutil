@@ -6,7 +6,7 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/pytimer/k8sutil/apply"
+	"github.com/bryant-rh/k8sutil/apply"
 
 	// imagepolicyv1alpha1 "k8s.io/api/imagepolicy/v1alpha1"
 	// utilruntime "k8s.io/apimachinery/pkg/util/runtime"

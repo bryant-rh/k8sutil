@@ -1,6 +1,6 @@
 # k8sutil
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/pytimer/k8sutil.svg)](https://pkg.go.dev/github.com/pytimer/k8sutil)
+[![Go Reference](https://pkg.go.dev/badge/github.com/bryant-rh/k8sutil.svg)](https://pkg.go.dev/github.com/bryant-rh/k8sutil)
 
 The repository provides some toolkits package to make it easier to call [client-go](https://github.com/kubernetes/client-go) to operate Kubernetes cluster.
 

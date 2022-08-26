@@ -3,7 +3,7 @@ package node
 import (
 	"testing"
 
-	"github.com/pytimer/k8sutil/types"
+	"github.com/bryant-rh/k8sutil/types"
 
 	"github.com/stretchr/testify/assert"
 	corev1 "k8s.io/api/core/v1"

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/pytimer/k8sutil/terminal"
+	"github.com/bryant-rh/k8sutil/terminal"
 
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/rest"

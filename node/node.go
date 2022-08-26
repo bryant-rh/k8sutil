@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	intypes "github.com/pytimer/k8sutil/types"
-	"github.com/pytimer/k8sutil/util"
+	intypes "github.com/bryant-rh/k8sutil/types"
+	"github.com/bryant-rh/k8sutil/util"
 
 	"github.com/pkg/errors"
 	corev1 "k8s.io/api/core/v1"

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/pytimer/k8sutil/util"
+	"github.com/bryant-rh/k8sutil/util"
 
 	corev1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/errors"

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/pytimer/k8sutil/wsremotecommand"
+	"github.com/bryant-rh/k8sutil/wsremotecommand"
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/tools/remotecommand"
 	"k8s.io/klog/v2"
